@@ -18,7 +18,7 @@ sudo reboot
 
 time="2023-03-04T10:53:41+05:30" level=fatal msg="Unsupported Docker version found [23.0.1] on host [44.212.75.32], supported versions are [1.13.x 17.03.x 17.06.x 17.09.x 18.06.x 18.09.x 19.03.x 20.10.x]"
 
-PS C:\SUREDELETELATER\K8SB19\RKE\RKE-CLUSTER> 
+
 rke.exe up --config .\rke-cluster.yml --ignore-docker-version
 
 rke.exe up --update-only --config .\rke-cluster.yml --ignore-docker-version

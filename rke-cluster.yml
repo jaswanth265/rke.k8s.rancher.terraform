@@ -1,4 +1,4 @@
-ssh_key_path: C:\SUREDELETELATER\K8SB24\Class3-4\rke-terraform\LaptopKey.pem
+ssh_key_path: C:\\K8S\\rke-terraform\.pem
 cluster_name: k8sb24cluster
 kubernetes_version: v1.27.8-rancher2-1
 nodes:
